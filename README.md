@@ -9,8 +9,6 @@ The project employs a robust object-oriented design to ensure a clean and mainta
 
 ## UML Class Diagram
 
-UML Class Diagram
-
 The UML class diagram illustrates the relationships between the key classes in the system. It showcases how classes like Factory, Employee, Manager, Worker, Accountant, Customer, and PurchaseOrder are organized and connected.
 Design Patterns
 
