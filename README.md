@@ -22,6 +22,7 @@ The Factory Management System implemented in Java for Space Dimensions Company i
 
 This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and the projects are provided solely for the purpose of providing benefits and compiling my experiences.
 
+## Important Alert
 By accessing or using this project, you agree to respect the proprietary rights of "Rashid Hassan". Any use outside the scope of the license or permission granted is subject to legal action.
 
 For inquiries or to request cooperation, please contact me via my email on the home page.
