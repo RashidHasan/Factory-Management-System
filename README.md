@@ -1,3 +1,6 @@
+![Screenshot (1126)](https://github.com/RashidHasan/Factory-Management-System/assets/136935583/6baf50fb-825d-4f3c-af61-24bee1d82cdd)
+
+
 # Factory Management System
 ## Overview
 
